@@ -1,6 +1,9 @@
-# Rogue-Game
+<h1 align="center">Rogue-Game </h1>
 
-![Cover Image](cover.png)
+<p align="center">
+  <img src="cover.png" alt="Cover Image" width="300"/>
+</p>
+<p align="center"><i>An exciting dungeon crawler adventure awaits!</i></p>
 
 Welcome to **Rogue-Game**, a thrilling dungeon crawler game with two levels of challenges. The first level features a randomly generated map, while the second level has a fixed map.
 
